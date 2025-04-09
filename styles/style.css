@@ -1,0 +1,119 @@
+:root{
+    --btn-primary-color:#9353FF;
+    --icon-color:#DAFF01;
+}
+
+body{
+    font-family: "Inter", sans-serif;
+}
+
+.text-small{
+    font-size: 0.8rem;
+}
+
+.divs-facilidades{
+    width:325px ;
+}
+
+
+.container_facildiades{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    
+}
+
+.icon_green{
+    font-size:4rem;
+    color:var(--icon-color) ;
+}
+
+.facilidades__titulo{
+    color: var(--icon-color);
+}
+
+.btn-primary{
+    background-color:var(--btn-primary-color);
+    border: none;
+    border-radius: 0;
+}
+
+footer{
+    background-color: black;
+}
+
+.bi-c-circle{
+    font-size: .8rem;
+    color: white;
+}
+
+
+
+.categoria__text{
+    color: white;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .banner{
+    background-color: black;
+    padding: 2rem 0;
+    
+}
+
+.banner__titulo{
+    color: #ffffff;
+    padding-bottom: 2rem;
+}
+.banner__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    
+}
+
+.banner__opcao{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    width: 23%;
+}
+
+.opcao__texto{
+    
+
+}
+
+
+.opcao__titulo{
+    font-size:medium;
+    color: #DAFF01;
+    padding-bottom: 0.5rem;
+    font-weight: 400;
+}
+.opcao_paragrafo{
+    font-size: small;
+    color: #ffffff;
+    margin: 0;
+    
+}
+.bi{
+    font-size: 4.5rem;
+    color: #DAFF01;
+} */
